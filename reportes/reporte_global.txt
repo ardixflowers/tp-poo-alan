@@ -1,0 +1,8 @@
+reportes/Reporte Global - 2025-04-22 10:42:33.715720
+
+Nombre: Franco Colapinto
+DNI: 78456126
+Nacionalidad: Argentina
+Misiones:
+  - Starship a Marte (275 dias) Resultado: Exito, Evaluacin: Muy buena
+
